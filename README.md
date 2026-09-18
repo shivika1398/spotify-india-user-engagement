@@ -1,3 +1,4 @@
+![Spotify India User Engagement](spotify-india-user-engagement-cover.png)
 # Spotify India — User Engagement & Listening Time
 
 ## 📌 Project Overview
