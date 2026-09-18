@@ -64,6 +64,15 @@ The project used an assumed baseline of approximately **35 listening minutes per
 ---
 
 ## 🧩 Key Findings
+## ⭐ Project Highlights
+
+- Framed a business problem around user engagement and listening time
+- Developed a KPI framework connecting listening behaviour to retention and premium conversion
+- Investigated potential engagement drivers including recommendation relevance, regional-language personalization, content discovery, and Free-tier friction
+- Mapped the current user journey and identified key pain points
+- Translated business needs into functional and non-functional requirements
+- Defined measurable success criteria and proposed targets for engagement improvement
+- Conducted competitor and market research to support product recommendations
 
 The research highlighted several potential engagement challenges:
 
